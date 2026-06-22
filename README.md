@@ -325,23 +325,33 @@ Through this project, I gained hands-on experience in:
 * Converting raw data into actionable insights
 
 ---
+## 📄 Project Documentation
 
-# 📁 Repository Structure
+A detailed project report is included in the **Documentation** folder. It covers:
 
-```text
-Rapido-Ride-Analytics-Dashboard/
-│
-├── Rapido_Dashboard.pbix
-├── Rapido_Dataset.xlsx
-├── Dashboard_Screenshots/
-│   ├── Executive_Overview.png
-│   ├── Operations.png
-│   ├── Customer.png
-│   └── Revenue.png
-├── README.md
-```
+* Project Overview
+* Problem Statement
+* Objectives
+* Business Requirements
+* Dataset Description
+* Data Cleaning
+* Data Modeling
+* Dashboard Architecture
+* KPI Measures
+* DAX Measures
+* Executive Overview Dashboard
+* Operations Dashboard
+* Customer Dashboard
+* Revenue Dashboard
+* Interactive Features
+* Business Insights
+* Challenges Faced
+* Learning Outcomes
+* Future Enhancements
+* Conclusion
 
----
+The documentation provides a comprehensive explanation of the project development process, dashboard design, business insights, and technical implementation.
+
 
 # 📬 Connect With Me
 
